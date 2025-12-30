@@ -15,6 +15,10 @@ results/alignments/
 results/counts/
 results/plots/
 
+!results/alignments/.gitkeep
+!results/counts/.gitkeep
+!results/plots/.gitkeep
+
 #Alignments
 .bam
 .bai
