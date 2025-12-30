@@ -5,6 +5,7 @@ data/raw/
 data/*/*.fastq
 data/*/*.fastq.gz
 data/*/*.fq.gz
+!data/raw/.gitkeep
 
 # Snakemake
 .snakemake/
