@@ -11,9 +11,9 @@ data/*/*.fq.gz
 .snakejob.*
 
 # Results
-results/alignments/
-results/counts/
-results/plots/
+results/alignments/*
+results/counts/*
+results/plots/*
 
 !results/alignments/.gitkeep
 !results/counts/.gitkeep
