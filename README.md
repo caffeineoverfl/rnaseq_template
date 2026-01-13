@@ -1,0 +1,1 @@
+Template for standard RNA Sequence Analysis using a snakemake Pipeline
